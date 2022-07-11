@@ -1,5 +1,5 @@
 # free_v2ray
-账号订阅链接：https://github.com/Subscription01link/free_v2ray<p>
+账号订阅链接：https://github.com/Subscription01link/free_v2ray/blob/main/v2ray.txt<p>
 base订阅链接：https://github.com/Subscription01link/free_v2ray
 # 关于这个项目（不定时分享v2ray账号！！！）：
 <h2>不定时分享可用免费节点<h2>
